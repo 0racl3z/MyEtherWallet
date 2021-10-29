@@ -1,4 +1,4 @@
-FROM node:14.17.2-stretch
+FROM node:14.18.0-stretch
 
 ENV HOME /home
 ENV NODE_OPTIONS --max-old-space-size=6144
